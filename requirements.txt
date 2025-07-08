@@ -1,0 +1,29 @@
+# Core Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+pyyaml>=6.0.0
+
+# Profiling and Analysis
+ydata-profiling>=4.0.0
+pypandoc>=1.10
+
+# LLM and AI Integration
+langchain>=0.0.300
+langchain-openai>=0.0.2
+openai>=0.27.0
+
+# Web App Interface
+streamlit>=1.20.0
+click>=8.1.0
+
+# Logging
+loguru>=0.7.0
+
+# Testing
+pytest>=7.0.0
+
+# ML and Matching Tools
+scikit-learn>=1.3.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.0

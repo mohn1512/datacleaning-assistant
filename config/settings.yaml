@@ -1,0 +1,8 @@
+openai_api_key: "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"
+nullity_threshold: 0.8
+outlier_method: 'iqr'  # Options: 'iqr', 'isolation_forest'
+outlier_action: 'cap'  # Options: 'cap', 'remove', 'flag'
+fuzzy_threshold: 90  # Similarity threshold for fuzzy matching (0-100)
+scale_numeric: false  # Enable/disable numeric scaling
+scale_method: 'minmax'  # Options: 'minmax', 'standard'
+openai_api_key: 'your_key'
