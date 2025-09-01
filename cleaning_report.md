@@ -24,4 +24,3 @@
 - Normalized text in 'country'
 - Deduplicated 89 text entries in 'email' using fuzzy matching
 - Parsed 'signupdate' as datetime using format %Y-%m-%d
-- Scaled 'purchaseamount' using min-max scaling
