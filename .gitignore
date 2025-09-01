@@ -1,0 +1,8 @@
+.env
+api-Key.txt
+__pycache__/
+dc-env/
+.ipynb_checkpoints/
+.vscode/
+*.pyc
+*.log
